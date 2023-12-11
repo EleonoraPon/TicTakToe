@@ -1,0 +1,7 @@
+крестик и нолик:
+http://icons.iconarchive.com/icons/double-j-design/origami-colored-pencil/128/green-cd-icon.png
+http://icons.iconarchive.com/icons/double-j-design/origami-colored-pencil/128/blue-cross-icon.png
+
+для css файла
+https://habr.com/ru/articles/477924/
+селекторы тут работают по названиям класса
